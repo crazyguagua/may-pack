@@ -2,4 +2,4 @@
 
 // node环境
 
-console.log('start11');
+console.log('start');
