@@ -2,7 +2,6 @@
 
 // node环境
 
-console.log('start');
 
 let path = require('path')
 
