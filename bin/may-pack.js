@@ -13,5 +13,7 @@ let Compiler = require('../lib/Compiler.js');
 
 let compiler = new Compiler(config);
 
+// 调用
+compiler.hooks.entryOption.call()
 // 标识运行编译
 compiler.run()
